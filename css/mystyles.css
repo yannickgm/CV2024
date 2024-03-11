@@ -2,25 +2,46 @@ a {
     color: #FFD95A;
 }
 
-.companylogo {
+.bluetext {
+    color: #1C36F0;
+}
+
+.pokalogo {
     max-width: 50vh;
 }
 
-.lastname {
+.premieremoissonlogo {
+    max-width:40vh;
+    padding-top: 5vh;
+    padding-bottom: 5vh;
+    padding-left: 5vh;
+}
+
+.goldtext {
     color: #FFD95A;
 }
 
 
+.purpletext {
+    color: #AD12DB
+}
 
 
 
 .navbar {
-    background-color: #AD12DB;
     background-color: #1C36F0;
 }
 
 p, h1, h2, h3, h4, h5, h6 {
     color: #1C36F0;
-   
 }
 
+.videotronbusinesslogo {
+    max-width: 45vh;
+    padding-left: 5vh;
+}
+
+.videotronlogo {
+    max-width: 50vh;
+    
+}
